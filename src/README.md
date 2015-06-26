@@ -9,3 +9,8 @@ src for source code
 
 1. item 1
 1. item 1
+
+1. item 1
+  i. item 2
+
+markdown had *italic* and **bold** 
