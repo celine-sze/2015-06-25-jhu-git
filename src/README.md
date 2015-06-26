@@ -13,3 +13,7 @@ src for source code
 
 1. item 1
 1. item 1
+
+1. item 1
+
+markdown had *italic* and **bold** 
