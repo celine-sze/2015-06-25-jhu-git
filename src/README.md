@@ -23,3 +23,8 @@ Whose woods are these, I think I know
 His house lies in the village though
 He will not see me stopping here
 To watch his woods fill up with snow
+
+My little horse must think it queer
+To stop without a farmhouse near
+Between the woods and frozen lake
+The darkest evening of the year.
